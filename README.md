@@ -1,4 +1,4 @@
-## Hey, I'm Fernando Quintanilha, a full-stack developer who ships systems to production! 🚀
+## Hey, I'm Fernando, a full-stack developer who ships to production! 🚀
 
 I build end to end, from the database to the screen a salesperson uses on their phone, and I like the parts most people skip: integrations, data consistency, tests and deploys. Based in Goiânia, Brazil, and **open to full-stack or back-end roles** (remote or on-site).
 
