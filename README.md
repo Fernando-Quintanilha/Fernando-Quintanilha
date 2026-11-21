@@ -1,13 +1,18 @@
-# Hi, I'm Fernando Quintanilha
+## Hey, I'm Fernando Quintanilha, a full-stack developer who ships systems to production! 🚀
 
-**Full-stack developer (back-end leaning) · Goiânia, Brazil**
+I build end to end, from the database to the screen a salesperson uses on their phone, and I like the parts most people skip: integrations, data consistency, tests and deploys. Based in Goiânia, Brazil, and **open to full-stack or back-end roles** (remote or on-site).
 
-I ship systems to production end to end, from the database to the screen a salesperson uses on their phone. I work in TypeScript, React, Node.js, C#/.NET and SQL, and I like the parts most people skip: integrations, data consistency, tests and deploys.
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,cs,dotnet,java,py,postgres,redis,docker,vercel,tailwind,firebase,git&perline=16" alt="Tech stack" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--fernando-111?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-fernando-iota.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando%20Quintanilha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-quintanilha-b548242ba)
+---
 
-Open to **full-stack or back-end** roles, remote or in Goiânia.
+<p>
+  <a href="https://portfolio-fernando-iota.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/fernando-quintanilha-b548242ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/ferquintanilha_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
