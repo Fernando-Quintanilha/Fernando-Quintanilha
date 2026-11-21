@@ -14,7 +14,6 @@ Open to **full-stack or back-end** roles, remote or in Goiânia.
 ## What I'm doing now
 
 - **IT & software development at a building-materials distributor.** I build the internal systems on top of the company's ERP (Sankhya) API and look after the production Oracle database and cloud servers.
-- **Software Engineering student** at UniAlfa (2026–2029).
 - **Volunteer judge** at FIRST Tech Challenge, where I started competing at 12.
 
 ## Selected work
