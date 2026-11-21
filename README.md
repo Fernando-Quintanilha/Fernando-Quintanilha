@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:26a641&height=180&section=header&text=Fernando%20Quintanilha&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Goi%C3%A2nia%2C%20Brazil&descSize=16&descAlignY=58" width="100%" alt="Fernando Quintanilha" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:26a641&height=180&section=header&text=Fernando%20Quintanilha&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Building%20systems%20that%20run%20in%20production%20%C2%B7%20Goi%C3%A2nia%2C%20Brazil&descSize=16&descAlignY=58" width="100%" alt="Fernando Quintanilha" />
 
 <a href="https://portfolio-fernando-iota.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Full-stack+Developer;Back-end+with+C%23+%C2%B7+.NET+%C2%B7+Node.js;Front-end+with+React+%C2%B7+TypeScript;I+ship+ERP+integrations+to+production;Former+FTC+robotics+programmer" alt="Typing intro" />
